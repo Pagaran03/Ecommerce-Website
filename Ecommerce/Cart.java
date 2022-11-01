@@ -7,8 +7,6 @@ package ecommerce.ea;
 public class Cart 
 {
     
-    //KANI NADUGANG OR NAUSAB - andrew
-    
    private int cid,cprice;
     private String cprodname;
     
